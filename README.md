@@ -24,4 +24,4 @@ This project is open-source and available under the MIT License.
 
 ## Preview
 
-![Preview](images/preview.png)
+![Preview](https://github.com/imnazake/Onion/blob/main/Images/preview.png)
