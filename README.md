@@ -17,7 +17,7 @@ Prerequisites
 * DirectX SDK (Included in modern Windows SDKs)
 
 - Clone the Repository
-`git clone https://github.com/yourusername/imgui-dx-template.git`
+`git clone https://github.com/imnazake/Onion.git`
 
 ## 📜 License
 This project is open-source and available under the MIT License.
